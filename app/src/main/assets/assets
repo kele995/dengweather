@@ -1,0 +1,10 @@
+<litepal>
+    <dbname value="deng_weather"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.dengweather.android.db.Province"/>
+        <mapping class="com.dengweather.android.db.City"/>
+        <mapping class="com.dengweather.android.db.County"/>
+    </list>
+
+</litepal>
